@@ -1,0 +1,94 @@
+{
+    "html": [{
+            "questionText": "1) HTML stands for -",
+            "options": [{
+                    "text": "HyperText Markup Language",
+                    "correct": true
+                },
+                {
+                    "text": "HighText Machine Language"
+                },
+                {
+                    "text": "HyperText and links Markup Language"
+                },
+                {
+                    "text": "None of these"
+                }
+            ],
+            "explanation": "HTML is an acronym that stands for HyperText Markup Language, which is used for creating web pages and web applications."
+        },
+        {
+            "questionText": "2) The correct sequence of HTML tags for starting a webpage is",
+            "options": [{
+                    "text": "Head, Title, HTML, body"
+                },
+                {
+                    "text": "HTML, Body, Title, Head"
+                },
+                {
+                    "text": "HTML, Head, Title, Body"
+                },
+                {
+                    "text": "HTML, Head, Title, Body",
+                    "correct": true
+                }
+            ],
+            "explanation": "The correct sequence of HTML tags to start a webpage is html, head, title, and body."
+        },
+        {
+            "questionText": "3) Which of the following element is responsible for making the text bold in HTML?",
+            "options": [{
+                    "text": "<pre>"
+                },
+                {
+                    "text": "<b>",
+                    "correct": true
+                },
+                {
+                    "text": "<a>"
+                },
+                {
+                    "text": "<br>"
+                }
+            ],
+            "explanation": "The <b> (bold tag) tag in HTML is used to display the written text in bold format."
+        },
+        {
+            "questionText": "4) Which of the following tag is used for inserting the largest heading in HTML",
+            "options": [{
+                    "text": "<h3>"
+                },
+                {
+                    "text": "<h1>",
+                    "correct": true
+                },
+                {
+                    "text": "<h5>"
+                },
+                {
+                    "text": "<h6>"
+                }
+            ],
+            "explanation": "The <h1> tag is used to insert the main heading or the highest level heading.t"
+        },
+        {
+            "questionText": "5) Which of the following tag is used to insert a line-break in HTML?",
+            "options": [{
+                    "text": "<br>",
+                    "correct": true
+                },
+                {
+                    "text": "<a>"
+                },
+                {
+                    "text": "<pre>"
+                },
+                {
+                    "text": "<b>"
+                }
+            ],
+            "explanation": "The <br> tag in the HTML document is used to create a line break in a text. If we place the <br> tag in HTML code, then it works the same as pressing the enter key in a word processor."
+        }
+        
+    ]
+}

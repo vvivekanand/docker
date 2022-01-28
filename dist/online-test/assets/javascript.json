@@ -1,0 +1,93 @@
+{
+    "javascript": [{
+            "questionText": "1) Which type of JavaScript language is ___",
+            "options": [{
+                    "text": "Object-Based",
+                    "correct": true
+                },
+                {
+                    "text": "Object-Oriented"
+                },
+                {
+                    "text": "Assembly-language"
+                },
+                {
+                    "text": "High-level"
+                }
+            ],
+            "explanation": "JavaScript is not a pure OOP's (object oriented programming) based languages such as PHP, java or many other languages"
+        },
+        {
+            "questionText": "2) Which one of the following also known as Conditional Expression:",
+            "options": [{
+                    "text": "Alternative to if-else"
+                },
+                {
+                    "text": "Switch statement"
+                },
+                {
+                    "text": "If-then-else statement"
+                },
+                {
+                    "text": "immediate if",
+                    "correct": true
+                }
+            ],
+            "explanation": "A conditional expression can only evaluate two things, which either true or false, that are purely based on the evaluation of the condition"
+        },
+        {
+            "questionText": "3) In JavaScript, what is a block of statement? ",
+            "options": [{
+                    "text": "Conditional block"
+                },
+                {
+                    "text": "block that combines a number of statements into a single compound statement",
+                    "correct": true
+                },
+                {
+                    "text": "both conditional block and a single statement"
+                },
+                {
+                    "text": "block that contains a single statement "
+                }
+            ],
+            "explanation": "A block of statement can be understand as the set of the zero or more statements. "
+        },
+        {
+            "questionText": "4) When interpreter encounters an empty statements, what it will do:",
+            "options": [{
+                    "text": "Shows a warning"
+                },
+                {
+                    "text": "Ignores the statements",
+                    "correct": true
+                },
+                {
+                    "text": "Prompts to complete the statement  "
+                },
+                {
+                    "text": "Throws an error"
+                }
+            ],
+            "explanation": "n JavaScript, when the interpreter encounters a empty statements it normally ignores or not response to that empty statement. "
+        },
+        {
+            "questionText": "7) The function and  var are known as: ",
+            "options": [{
+                    "text": "Declaration statements  ",
+                    "correct": true
+                },
+                {
+                    "text": "Keywords"
+                },
+                {
+                    "text": "Data types "
+                },
+                {
+                    "text": "Prototypes"
+                }
+            ],
+            "explanation": "The function and var both are the Declaration statements. These both are used for defining, and declaring variable, function in anywhere in the program."
+        }
+    ]
+}

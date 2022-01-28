@@ -1,0 +1,92 @@
+{
+    "angular": [{
+            "questionText": "1) Which of the following statement is correct for AngularJS??",
+            "options": [{
+                    "text": "AngularJS is a JavaScript framework",
+                    "correct": true
+                },
+                {
+                    "text": "AngularJS is an HTML framework"
+                },
+                {
+                    "text": "AngularJS is a Java framework"
+                },
+                {
+                    "text": "AngularJS is a SQL framework"
+                }
+            ],
+            "explanation": " correct option. AngularJS is a JavaScript framework."
+        },
+        {
+            "questionText": "2) On which of the Architectural pattern AngularJS is based?",
+            "options": [{
+                    "text": "Observer Pattern"
+                },
+                {
+                    "text": "Decorator pattern"
+                },
+                {
+                    "text": "MVC Architecture pattern"
+                },
+                {
+                    "text": "MVVM Architectural pattern",
+                    "correct": true
+                }
+            ],
+            "explanation": "correct option. AngularJS is based on MVVM Architectural pattern."
+        },
+        {
+            "questionText": "3) AngularJS is perfect for?",
+            "options": [{
+                    "text": "MPAs"
+                },
+                {
+                    "text": "SPAs",
+                    "correct": true
+                },
+                {
+                    "text": "DPAs"
+                },
+                {
+                    "text": "CPAs"
+                }
+            ],
+            "explanation": "orrect option. AngularJS is perfect for Single Page Applications (SPAs)."
+        },
+        {
+            "questionText": "4) Which of the following is the correct syntax for writing AngularJS expressions?",
+            "options": [{
+                    "text": "(expression)"
+                },
+                {
+                    "text": "{{expression}}",
+                    "correct": true
+                },
+                {
+                    "text": "{{{expression}}}"
+                },
+                {
+                    "text": "[expression]"
+                }
+            ],
+            "explanation": "correct option. The correct syntax for writing AngularJS expressions is: {{expression}}"
+        },
+        {
+            "questionText": "5) Which of the following directive is used to bind the application data to the HTML view in AngularJS?",
+            "options": [{
+                    "text": "ng-bind directive",
+                    "correct": true
+                },
+                {
+                    "text": "ng-app directive"
+                },
+                {
+                    "text": "ng-model directive"
+                },
+                {
+                    "text": "ng-init directive"
+                }
+            ],
+            "explanation": " correct option. The ng-bind directive is used to bind the application data to the HTML view in the AngularJS application."
+        }   ]
+}
